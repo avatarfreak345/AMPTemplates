@@ -5,6 +5,7 @@ Meta.Author=avatarfreak345 - Made with AMP Config Generator
 Meta.URL=
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
+Meta.AppConfigId=Farming Simulator 22
 Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
