@@ -1,0 +1,8 @@
+[
+  {
+    "ConfigFile":"Farming Simulator 22/server_config.sii",
+    "AutoMap":true,
+    "ConfigType":"template",
+    "ConfigFileTemplate":"farming-simulator-22/AMP_server_config.sii"
+  }
+]
