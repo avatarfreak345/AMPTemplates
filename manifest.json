@@ -1,9 +1,10 @@
 {
-	"id": "986464653169874651198465",
-	"authors": ["vatarfreak345"],
-	"origin": "https://github.com/avatarfreak345/AMPTemplates.git",
-	"url": "https://github.com/avatarfreak345/AMPTemplates",
-	"imagefile": "",
-	"prefix": "ava",
-	"repotype": "AppTemplates"
+    "id": "708e2e6d-35a4-46d2-b4b6-14152a1ad3cb",
+    "authors": [
+        "avatarfreak345 - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/avatarfreak345 - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/avatarfreak345 - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "avatarfreak345 - Made with AMP Config Generator"
 }
